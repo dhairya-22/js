@@ -7,6 +7,8 @@ accountcity ="jaipur"
 
 
 accountEmail="hc@hcmoldnc"
-
+accountEmail="ecjncfin";
+// no use of var use let instead
+// if noundefined will be the value of  value assingned so 
 console.log(accountId)
 console.table([accountEmail,accountId,accountpassword])
